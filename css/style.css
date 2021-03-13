@@ -1,0 +1,173 @@
+body {
+  font-family: 'Montserrat-black',sans-serif;
+}
+
+#title {
+  background-color: black;
+  font-weight: bold;
+}
+
+#Accessories {
+  background-color: black;
+  font-weight: bold;
+  padding: 3% 15%;
+}
+
+#moreabtus {
+  background-color: black;
+  padding: 3% 15%;
+  text-align: center;
+}
+
+#morecollections {
+  background-color: black;
+  padding: 3% 15%;
+  text-align: center;
+}
+
+#keepintouch {
+  background-color: black;
+  padding: 3% 15%;
+  text-align: center;
+  padding-top: 80px;
+}
+
+#tocontactus {
+  background-color: black;
+  padding: 3% 15%;
+  text-align: center;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.title-icon {
+  padding-left: 30px;
+  padding-top: 20px;
+  text-align: right;
+}
+
+.navbar-brand {
+  font-family: Ubuntu;
+  color: black;
+}
+
+.options {
+  padding-left: 60px;
+  padding-right: 30px;
+  padding-top: 20px;
+  text-align: center;
+  font-family: "Montserrat-light";
+}
+
+img {
+  width: 50;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 6%;
+}
+
+.btnfordetails {
+  margin-top: 30px;
+  margin-bottom: 80px;
+}
+
+h2 {
+  font-family: 'Montserrat-bold',sans-serif;
+  color: white;
+}
+
+p {
+  font-family: 'Montserrat-light',sans-serif;
+  color: white;
+}
+
+.detailofjewellery {
+  padding: 3% 30%;
+}
+
+.detailofdiamonds {
+  padding: 3% 30%;
+}
+
+.collection{
+  background-color: black;
+  margin-bottom: 80px;
+}
+
+a {
+  font-family: 'Montserrat';
+  line-height: 1.5;
+}
+
+.loosediamondpic {
+  margin-bottom: 80px;
+}
+
+.mailusyourid {
+  padding-top: 130px;
+  padding-right: 50px;
+}
+
+.imagesoftrust {
+  padding: 10px;
+}
+
+.whytotrust {
+  padding-bottom: 80px;
+}
+
+.contactingslide {
+  background-color: grey;
+  padding: 3% 8% 3% 8%;
+  font-family: 'Montserrat',sans-serif;
+}
+
+.abttheplace {
+  padding-bottom: 8%;
+}
+
+.lastseperator {
+  padding-bottom: 5%;
+}
+
+.contactanchor {
+  font-family: 'Montserrat-bold';
+  font-size: 1.5rem;
+  color: 	#23395D;
+}
+
+.contactanchor:hover {
+  color: #152238;
+}
+
+.informationabtus {
+  padding-bottom: 8%;
+}
+
+.linkofsocial {
+  padding: 5%;
+  color: #ff4c68;
+}
+
+.linkofsocial:hover {
+  color: #23395D;
+}
+
+.partnerlinks {
+  padding-left: 8%;
+}
+
+.associatedpartners {
+  padding-top: 5%;
+  text-align: center;
+}
+
+.trademark {
+  font-family: 'Montserrat-light',sans-serif;
+  padding-top: 5%;
+}
